@@ -1,2 +1,3 @@
 # TS3MusicBot-Install-Script-v2.x
-This script isn't finished in any state yet.
+## DISCONTINUED
+## Replaced by T3MBC: https://github.com/M0V3/T3MBC
